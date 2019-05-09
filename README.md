@@ -16,12 +16,12 @@ If you don't have it already, install it
 
     pip3 install tensorflow
 
-[Start](https://jupyter-notebook.readthedocs.io/en/latest/notebook.html#notebook-user-interface) your first Jupyter notebook (courtesy Coursera Intro duction course)
+[Start](https://jupyter-notebook.readthedocs.io/en/latest/notebook.html#notebook-user-interface) your first Jupyter notebook (courtesy Coursera Introduction to AI course)
 
     cd intro_T4AI_ML_DL
     jupyter notebook notebook.ipynb
 
-or run the first exercise:
+or run the first exercise (house price estimation):
 
     jupyter notebook Exercise_1_House_Prices_Question.ipynb
 

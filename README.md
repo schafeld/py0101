@@ -25,6 +25,10 @@ or run the first exercise (house price estimation):
 
     jupyter notebook Exercise_1_House_Prices_Question.ipynb
 
+In case you have converted the Jupyter notebook into regular Python code you can execute it from the terminal as well:
+
+    python3 Exercise_1_House_Prices_Question.py
+
 
 #### Acknowledgement
 - Notebooks for "Coursera's Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning" can be found on [Github](https://github.com/lmoroney/dlaicourse).

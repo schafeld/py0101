@@ -35,7 +35,9 @@ Code listed in order of appearance in course
 
 - notebook.ipynb (HelloWorld doodle)
 - Exercise_1_House_Prices_Question.ipynb
-- Course_1_Part_4_Lesson_2_Notebook.ipynb 
+- Course_1_Part_4_Lesson_2_Notebook.ipynb
+- Course_1_Part_4_Lesson_4_Notebook.ipynb
+
 
 #### Acknowledgement
 - Notebooks for "Coursera's Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning" can be found on [Github](https://github.com/lmoroney/dlaicourse).

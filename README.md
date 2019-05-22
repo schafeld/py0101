@@ -37,6 +37,7 @@ Code listed in order of appearance in course
 - Exercise_1_House_Prices_Question.ipynb
 - Course_1_Part_4_Lesson_2_Notebook.ipynb
 - Course_1_Part_4_Lesson_4_Notebook.ipynb
+- Course_1_Part_6_Lesson_2_Notebook.ipynb
 
 
 #### Acknowledgement

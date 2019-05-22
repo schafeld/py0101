@@ -43,7 +43,7 @@ Code listed in order of appearance in course (see git history for changes)
 
 
 #### Acknowledgement
-- Notebooks for "Coursera's Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning" can be found on [Github](https://github.com/lmoroney/dlaicourse).
+- Notebooks for "[Coursera's Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/learn/introduction-tensorflow)" can be found on [Github](https://github.com/lmoroney/dlaicourse).
 
 ☞ If you're a fellow Coursera student please keep in mind that you pledged to respect the honor code. Don't copy other people's course work – your future self will be grateful to you.
 

@@ -39,6 +39,7 @@ Code listed in order of appearance in course (see git history for changes)
 - Course_1_Part_4_Lesson_4_Notebook.ipynb
 - Course_1_Part_6_Lesson_2_Notebook.ipynb
 - Convolutions_Sidebar.ipynb
+- (exercise week 3 [teacher solution](https://colab.research.google.com/github/lmoroney/dlaicourse/blob/master/Exercises/Exercise%203%20-%20Convolutions/Exercise%203%20-%20Answer.ipynb))
 
 
 #### Acknowledgement

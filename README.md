@@ -31,13 +31,14 @@ In case you have converted the Jupyter notebook into regular Python code (which 
 
 
 #### Content
-Code listed in order of appearance in course
+Code listed in order of appearance in course (see git history for changes)
 
 - notebook.ipynb (HelloWorld doodle)
 - Exercise_1_House_Prices_Question.ipynb
 - Course_1_Part_4_Lesson_2_Notebook.ipynb
 - Course_1_Part_4_Lesson_4_Notebook.ipynb
 - Course_1_Part_6_Lesson_2_Notebook.ipynb
+- Convolutions_Sidebar.ipynb
 
 
 #### Acknowledgement

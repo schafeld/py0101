@@ -7,9 +7,10 @@ Original file is located at
     https://colab.research.google.com/github/lmoroney/dlaicourse/blob/master/Course%201%20-%20Part%208%20-%20Lesson%202%20-%20Notebook.ipynb
 """
 
-!wget --no-check-certificate \
-    https://storage.googleapis.com/laurencemoroney-blog.appspot.com/horse-or-human.zip \
-    -O /tmp/horse-or-human.zip
+# Simply download images once 'manually' into a ./temp/ folder
+# !wget --no-check-certificate \
+#     https://storage.googleapis.com/laurencemoroney-blog.appspot.com/horse-or-human.zip \
+#     -O /tmp/horse-or-human.zip
 
 """The following python code will use the OS library to use Operating System libraries, giving you access to the file system, and the zipfile library allowing you to unzip the data."""
 

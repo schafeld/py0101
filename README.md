@@ -33,6 +33,7 @@ In case you have converted the Jupyter notebook into regular Python code (which 
 #### Content
 Code listed in order of appearance in course (see git history for changes)
 
+##### Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning
 - notebook.ipynb (HelloWorld doodle)
 - Exercise_1_House_Prices_Question.ipynb
 - Course_1_Part_4_Lesson_2_Notebook.ipynb
@@ -42,6 +43,9 @@ Code listed in order of appearance in course (see git history for changes)
 - Exercise_3_Question.ipynb (exercise week 3 [teacher solution](https://colab.research.google.com/github/lmoroney/dlaicourse/blob/master/Exercises/Exercise%203%20-%20Convolutions/Exercise%203%20-%20Answer.ipynb))
 - Horse_or_Human_NoValidation.ipynb (Note to self: Starting point for project Picturefoods? Doesn't run on my localhost, worts on [remote colab](https://colab.research.google.com/github/lmoroney/dlaicourse/blob/master/Course%201%20-%20Part%208%20-%20Lesson%202%20-%20Notebook.ipynb#scrollTo=RXZT2UsyIVe_) however)
 - Course_2_Part_2_Lesson_3_Notebook.ipynb
+- Exercise4_Answer.ipynb
+
+##### tbd
 
 
 #### Acknowledgement

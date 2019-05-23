@@ -39,7 +39,8 @@ Code listed in order of appearance in course (see git history for changes)
 - Course_1_Part_4_Lesson_4_Notebook.ipynb
 - Course_1_Part_6_Lesson_2_Notebook.ipynb
 - Convolutions_Sidebar.ipynb
-- (exercise week 3 [teacher solution](https://colab.research.google.com/github/lmoroney/dlaicourse/blob/master/Exercises/Exercise%203%20-%20Convolutions/Exercise%203%20-%20Answer.ipynb))
+- Exercise_3_Question.ipynb (exercise week 3 [teacher solution](https://colab.research.google.com/github/lmoroney/dlaicourse/blob/master/Exercises/Exercise%203%20-%20Convolutions/Exercise%203%20-%20Answer.ipynb))
+- Horse_or_Human_NoValidation.ipynb (Note to self: Starting point for project Picturefoods? Doesn't run on my localhost, worts on [remote colab](https://colab.research.google.com/github/lmoroney/dlaicourse/blob/master/Course%201%20-%20Part%208%20-%20Lesson%202%20-%20Notebook.ipynb#scrollTo=RXZT2UsyIVe_) however)
 
 
 #### Acknowledgement

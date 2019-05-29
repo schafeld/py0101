@@ -105,3 +105,4 @@ venv.bak/
 
 # custom project files and folders
 tmp/
+*/virtualenv_ollis_tensorflow/

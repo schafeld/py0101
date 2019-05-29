@@ -1,7 +1,7 @@
 # Python ❤︎ AI
 ## Doodles in Artificial Intelligence and Machine Learning
 
-Some course work for edX's [IBM PY0101EN Python Basics for Data Science](https://courses.edx.org/courses/course-v1:IBM+PY0101EN+1T2019/course/) or Coursera's [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/learn/introduction-tensorflow)
+Some course work for edX's [IBM PY0101EN Python Basics for Data Science](https://courses.edx.org/courses/course-v1:IBM+PY0101EN+1T2019/course/) and Coursera's [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/learn/introduction-tensorflow) and code variantions on Tutsplus's ["Learn Machine Learning With Google TensorFlow](https://code.tutsplus.com/courses/learn-machine-learning-with-google-tensorflow/lessons/why-use-tensorflow).
 
 ...and/or some Python doodles may be found in this repository.
 
@@ -29,11 +29,33 @@ In case you have converted the Jupyter notebook into regular Python code (which 
 
     python3 Exercise_1_House_Prices_Question.py
 
+You can set up a project environment restricted to a current user's terminal workspace with Python's [virtualenv](https://virtualenv.pypa.io/en/stable/userguide/#usage) command:
+
+    pip3 virtualenv
+    virtualenv virtualenv_ollis_tensorflow
+    cd virtualenv_ollis_tensorflow
+    source bin/activate
+    pip3 install tensorflow
+    pip3 install h5py
+    pip3 install pandas
+
+The virtual environment has to be activated as shown above in every new terminal session.
+Write installed Python modules into requrements file:
+
+    pip3 freeze > ../reqirements.txt
+
+From that file you could also install modules after you've cloned this repo ([tip source](https://code.tutsplus.com/courses/build-a-web-app-with-the-flask-microframework-for-python/lessons/setting-up-the-environment)):
+
+    pip3 install reqirements.txt
+
+
+
 
 #### Content
 Code listed in order of appearance in course (see git history for changes)
 
-##### Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning
+##### Coursera's "Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning"
+Folder: intro_T4AI_ML_DL/
 - notebook.ipynb (HelloWorld doodle)
 - Exercise_1_House_Prices_Question.ipynb
 - Course_1_Part_4_Lesson_2_Notebook.ipynb
@@ -41,16 +63,19 @@ Code listed in order of appearance in course (see git history for changes)
 - Course_1_Part_6_Lesson_2_Notebook.ipynb
 - Convolutions_Sidebar.ipynb
 - Exercise_3_Question.ipynb (exercise week 3 [teacher solution](https://colab.research.google.com/github/lmoroney/dlaicourse/blob/master/Exercises/Exercise%203%20-%20Convolutions/Exercise%203%20-%20Answer.ipynb))
-- Horse_or_Human_NoValidation.ipynb (Note to self: Starting point for project Picturefoods? Doesn't run on my localhost, worts on [remote colab](https://colab.research.google.com/github/lmoroney/dlaicourse/blob/master/Course%201%20-%20Part%208%20-%20Lesson%202%20-%20Notebook.ipynb#scrollTo=RXZT2UsyIVe_) however)
+- Horse_or_Human_NoValidation.ipynb (Note to self: Starting point for project Picturefoods? Doesn't run on my localhost, works on [remote colab](https://colab.research.google.com/github/lmoroney/dlaicourse/blob/master/Course%201%20-%20Part%208%20-%20Lesson%202%20-%20Notebook.ipynb#scrollTo=RXZT2UsyIVe_) however)
 - Course_2_Part_2_Lesson_3_Notebook.ipynb
 - Exercise4_Answer.ipynb
 
-##### tbd
+##### Tutsplus's ["Learn Machine Learning With Google TensorFlow](https://code.tutsplus.com/courses/learn-machine-learning-with-google-tensorflow/lessons/why-use-tensorflow)
+
+Folder: learn_ML_Tensorflow/
+- tbd
 
 
 #### Acknowledgement
 - Notebooks for "[Coursera's Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/learn/introduction-tensorflow)" can be found on [Github](https://github.com/lmoroney/dlaicourse).
 
-☞ If you're a fellow Coursera student please keep in mind that you pledged to respect the honor code. Don't copy other people's course work – your future self will be grateful to you.
+☞ If you're a fellow Coursera or edX student please keep in mind that you pledged to respect the honor code. Don't copy other people's course work – your future self will be grateful to you.
 
 to be continued...

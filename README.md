@@ -70,7 +70,11 @@ Folder: intro_T4AI_ML_DL/
 ##### Tutsplus's ["Learn Machine Learning With Google TensorFlow](https://code.tutsplus.com/courses/learn-machine-learning-with-google-tensorflow/lessons/why-use-tensorflow)
 
 Folder: learn_ML_Tensorflow/
-- tbd
+- neural_net_meal_suggestions.py
+- neural_net_zoo_animals.py
+
+Data sources used (Kaggle grants [Database: Open Database, Contents: Database Contents](https://opendatacommons.org/licenses/dbcl/1.0/) license, see their website for details):
+- [Zoo animal classification](https://www.kaggle.com/uciml/zoo-animal-classification)
 
 
 #### Acknowledgement

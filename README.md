@@ -3,7 +3,7 @@
 
 Some course work for edX's [IBM PY0101EN Python Basics for Data Science](https://courses.edx.org/courses/course-v1:IBM+PY0101EN+1T2019/course/) and Coursera's [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/learn/introduction-tensorflow) and code variantions on Tutsplus's ["Learn Machine Learning With Google TensorFlow](https://code.tutsplus.com/courses/learn-machine-learning-with-google-tensorflow/lessons/why-use-tensorflow).
 
-...and/or some Python doodles may be found in this repository.
+...and/or some Python doodles may be found in this repository. These are my notes as I work on some AI courses, you'll probably not find this stuff very usefull (yet). I do however recommend the original courses for learning about ML and Tensorflow.
 
 
 #### Notes for *Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning*
@@ -52,9 +52,9 @@ From that file you could also install modules after you've cloned this repo ([ti
 
 
 #### Content
-Code listed in order of appearance in course (see git history for changes)
+Code listed 'in order of appearance', i.e. in the order I played with it.
 
-##### Coursera's "Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning"
+##### Coursera's ["Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning"](https://www.coursera.org/learn/introduction-tensorflow)
 Folder: intro_T4AI_ML_DL/
 - notebook.ipynb (HelloWorld doodle)
 - Exercise_1_House_Prices_Question.ipynb
@@ -74,7 +74,9 @@ Folder: learn_ML_Tensorflow/
 - neural_net_zoo_animals.py
 
 Data sources used (Kaggle grants [Database: Open Database, Contents: Database Contents](https://opendatacommons.org/licenses/dbcl/1.0/) license, see their website for details):
+
 - [Zoo animal classification](https://www.kaggle.com/uciml/zoo-animal-classification)
+- [Fruits 360 dataset](https://www.kaggle.com/moltean/fruits/downloads/fruits.zip/49) (not included in repo, download from Kaggle)
 
 
 #### Acknowledgement

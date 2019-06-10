@@ -105,5 +105,6 @@ venv.bak/
 
 # custom project files and folders
 tmp/
+data/
 */virtualenv_ollis_tensorflow/
 */fruits-360-dataset/

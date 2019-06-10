@@ -72,6 +72,8 @@ Folder: intro_T4AI_ML_DL/
 Folder: learn_ML_Tensorflow/
 - neural_net_meal_suggestions.py
 - neural_net_zoo_animals.py
+- neural_net_fruits.py
+  Note: I had to ```pip3 install pillow``` because I got an error "ImportError: Could not import PIL.Image. The use of 'array_to_img' requires PIL." (PIL ≙ pillow)
 
 Data sources used (Kaggle grants [Database: Open Database, Contents: Database Contents](https://opendatacommons.org/licenses/dbcl/1.0/) license, see their website for details):
 
